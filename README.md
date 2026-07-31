@@ -1,4 +1,5 @@
 # klmster
-Port blocker for local domain
+SSN Detector for directories
+During a recent audit, we found that several files are on the desktop, unsecured, including SSN's.  These files are accessible to many.
 
-Preventing end users from access email in an insecure manner.  Users are not on a domain, so this is needed to audit and remove
+Version 1 focuses on identifying potential U.S. Social Security numbers in common document formats. Future versions may add support for additional PII such as driver's license numbers, passport numbers, and credit card numbers.
